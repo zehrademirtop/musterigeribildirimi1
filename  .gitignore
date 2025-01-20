@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+*.db
+*.exe
+*.dll
+*.ini
+*.lock
+*.tmp
+node_modules/
+build/
+.flutter/
+.android/
+.idea/
+.vscode/ 
